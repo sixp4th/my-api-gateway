@@ -1,0 +1,24 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/tmp/npm.21769/package/bin/npm-cli.js
+1 info using npm@10.8.3
+2 info using node@v22.9.0
+3 silly config load:file:/data/data/com.termux/files/usr/tmp/npm.21769/package/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm install ../npm.tgz
+7 verbose argv "install" "--global" "--force" "../npm.tgz"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2024-09-22T01_11_16_253Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2024-09-22T01_11_16_253Z-debug-0.log
+10 warn using --force Recommended protections disabled.
+11 silly packumentCache heap:998768640 maxSize:249692160 maxEntrySize:124846080
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly fetch manifest npm@file:../tmp/npm.21769/npm.tgz
+15 silly placeDep ROOT npm@10.8.3 OK for:  want: file:../tmp/npm.21769/npm.tgz
+16 silly reify moves {}
+17 silly ADD node_modules/npm
+18 verbose cwd /data/data/com.termux/files/usr/tmp/npm.21769/package
+19 verbose os Linux 4.19.157-perf-g91af8c1e5786-dirty
+20 verbose node v22.9.0
+21 verbose npm  v10.8.3
+22 verbose exit 0
+23 info ok

@@ -1,0 +1,30 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/tmp/npm.21769/package/bin/npm-cli.js
+1 info using npm@10.8.3
+2 info using node@v22.9.0
+3 silly config load:file:/data/data/com.termux/files/usr/tmp/npm.21769/package/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm rm npm
+7 verbose argv "rm" "npm" "--global" "--force" "--loglevel" "silent"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2024-09-22T01_11_13_750Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2024-09-22T01_11_13_750Z-debug-0.log
+10 warn using --force Recommended protections disabled.
+11 silly packumentCache heap:998768640 maxSize:249692160 maxEntrySize:124846080
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly reify mark retired [
+14 silly reify   '/data/data/com.termux/files/usr/lib/node_modules/npm',
+14 silly reify   '/data/data/com.termux/files/usr/bin/npm',
+14 silly reify   '/data/data/com.termux/files/usr/bin/npx'
+14 silly reify ]
+15 silly reify moves {
+15 silly reify   '/data/data/com.termux/files/usr/lib/node_modules/npm': '/data/data/com.termux/files/usr/lib/node_modules/.npm-Ad3JtrjG',
+15 silly reify   '/data/data/com.termux/files/usr/bin/npm': '/data/data/com.termux/files/usr/bin/.npm-9oXEyzxI',
+15 silly reify   '/data/data/com.termux/files/usr/bin/npx': '/data/data/com.termux/files/usr/bin/.npx-vlNjOz4J'
+15 silly reify }
+16 verbose cwd /data/data/com.termux/files/usr/tmp/npm.21769/package
+17 verbose os Linux 4.19.157-perf-g91af8c1e5786-dirty
+18 verbose node v22.9.0
+19 verbose npm  v10.8.3
+20 verbose exit 0
+21 info ok
